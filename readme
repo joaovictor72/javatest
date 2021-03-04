@@ -1,0 +1,5 @@
+Driver do chome (comando do linux)
+
+sudo apt-get install chromium-chromedriver
+
+
